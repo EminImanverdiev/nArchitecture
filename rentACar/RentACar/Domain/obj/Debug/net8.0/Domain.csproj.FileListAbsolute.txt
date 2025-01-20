@@ -1,0 +1,15 @@
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\bin\Debug\net8.0\Domain.dll
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.dll
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\bin\Debug\net8.0\Core.Persistence.dll
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\bin\Debug\net8.0\Core.Persistence.pdb
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date

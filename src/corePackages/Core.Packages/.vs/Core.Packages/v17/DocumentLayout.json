@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B6B9D8B-9CEF-41DD-9C3C-08806A732552}|Core.Application\\Core.Application.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B9D8B-9CEF-41DD-9C3C-08806A732552}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6B9D8B-9CEF-41DD-9C3C-08806A732552}|Core.Application\\Core.Application.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B9D8B-9CEF-41DD-9C3C-08806A732552}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +78,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:43:21.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
+              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:40:51.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequest.cs",
+              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeToolTip": "Core.Application\\Requests\\PageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:36:53.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EfRepositoryBase.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\EfRepositoryBase.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
@@ -79,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IEntityTimestamps.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IEntityTimestamps.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
@@ -87,25 +138,24 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:50:54.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:50:54.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IQueryableDynamicFilterExtensions.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "RelativeToolTip": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T20:44:11.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DynamicQuery.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
@@ -113,12 +163,11 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:29:05.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:29:05.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Sort.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
@@ -126,12 +175,11 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:26:54.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:26:54.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Filter.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
@@ -139,12 +187,11 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:22:05.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:22:05.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IQuery.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IQuery.cs",
@@ -152,12 +199,24 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T16:53:20.286Z",
+              "WhenOpened": "2025-01-20T16:53:20.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:57:18.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
@@ -165,12 +224,11 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T16:46:37.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T16:46:37.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
@@ -178,12 +236,11 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAYwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T16:12:55.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T16:12:55.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
@@ -191,12 +248,11 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T20:28:39.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T20:28:39.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IQueryablePaginateExtensions.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
@@ -204,21 +260,7 @@
               "RelativeToolTip": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T17:22:40.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Paginate.cs",
-              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
-              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
-              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T16:57:18.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T17:22:40.034Z"
             }
           ]
         }

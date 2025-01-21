@@ -1,4 +1,7 @@
-﻿using MediatR;
+﻿using Application.Services.Repositories;
+using AutoMapper;
+using Domain.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,12 +16,23 @@ public class CreateBrandCommand:IRequest<CreatedBrandResponse>
     //CreateCommandsiz handler handlersiz command olmadigi kimi ic ice yazmagimiz en meqsede uygunudur.
     public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
     {
-        public Task<CreatedBrandResponse>? Handle(CreateBrandCommand request, CancellationToken cancellationToken)
+        private readonly IBrandRepository _brandRepository;
+        private readonly IMapper _mapper;
+
+        public CreateBrandCommandHandler(IBrandRepository brandRepository, IMapper mapper)
         {
-            CreatedBrandResponse response=new CreatedBrandResponse();   
-            response.Name = request.Name;
-            response.Id = new Guid();
-            return null;
+            _brandRepository = brandRepository;
+            _mapper = mapper;
+        }
+
+        public async Task<CreatedBrandResponse>? Handle(CreateBrandCommand request, CancellationToken cancellationToken)
+        {
+            Brand brand = _mapper.Map<Brand>(request);
+            brand.Id = new Guid();
+            await _brandRepository.AddAsync(brand);
+            CreatedBrandResponse createdBrandResponse = _mapper.Map<CreatedBrandResponse>(brand);
+            return createdBrandResponse;    
+
         }
     }
 }

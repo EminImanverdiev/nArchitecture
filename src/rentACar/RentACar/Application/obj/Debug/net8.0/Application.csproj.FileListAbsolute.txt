@@ -15,3 +15,5 @@ D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Application\bin\Debug\net
 D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Application\bin\Debug\net8.0\Domain.pdb
 D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Persistence.pdb
 D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Application.dll
+D:\Workspace\MyCourses\nArchitecture\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Application.pdb

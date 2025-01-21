@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6B9D8B-9CEF-41DD-9C3C-08806A732552}|Core.Application\\Core.Application.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B6B9D8B-9CEF-41DD-9C3C-08806A732552}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C5AE283-3ACE-496C-A69D-5517DB988B1E}|Core.Persistence\\Core.Persistence.csproj|d:\\workspace\\mycourses\\narchitecture\\corepackages\\core.packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasePageableModel.cs",
-              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
-              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
-              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T07:43:21.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetListResponse.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
               "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
@@ -104,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PageRequest.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
               "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequest.cs",
@@ -112,12 +99,11 @@
               "RelativeToolTip": "Core.Application\\Requests\\PageRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T07:36:53.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T07:36:53.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EfRepositoryBase.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\EfRepositoryBase.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
@@ -125,12 +111,11 @@
               "RelativeToolTip": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:52:08.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:52:08.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IEntityTimestamps.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IEntityTimestamps.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
@@ -142,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IQueryableDynamicFilterExtensions.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
@@ -150,8 +135,7 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:44:11.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:44:11.067Z"
             },
             {
               "$type": "Document",
@@ -203,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Paginate.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
@@ -211,8 +195,32 @@
               "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T16:57:18.213Z",
+              "WhenOpened": "2025-01-20T16:57:18.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
+              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:28:39.75Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:43:21.864Z"
             },
             {
               "$type": "Document",
@@ -228,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
@@ -237,18 +245,6 @@
               "ViewState": "AgIAAD0AAAAAAAAAAAAYwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T16:12:55.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
-              "ToolTip": "D:\\Workspace\\MyCourses\\nArchitecture\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T20:28:39.75Z"
             },
             {
               "$type": "Document",

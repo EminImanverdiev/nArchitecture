@@ -1,4 +1,6 @@
 ﻿using Application.Features.Brands.Commands.Create;
+using Application.Features.Brands.Commands.Delete;
+using Application.Features.Brands.Commands.Update;
 using Application.Features.Brands.Queries.GetById;
 using Application.Features.Brands.Queries.GetList;
 using AutoMapper;
@@ -19,6 +21,10 @@ public class MappingProfiles:Profile
     {
         CreateMap<CreateBrandCommand,Brand>().ReverseMap();
         CreateMap<CreatedBrandResponse,Brand>().ReverseMap();
+        CreateMap<UpdatedBrandResponse, Brand>().ReverseMap();
+        CreateMap<UpdateBrandCommand, Brand>().ReverseMap();
+        CreateMap<DeletedBrandResponse, Brand>().ReverseMap();
+        CreateMap<DeletedBrandCommand, Brand>().ReverseMap();
         CreateMap<GetListBrandListItemDto, Brand>().ReverseMap();
         CreateMap<GetByIdBrandResponse, Brand>().ReverseMap();
         CreateMap<Paginate<Brand>,GetListResponse<GetListBrandListItemDto>>().ReverseMap();

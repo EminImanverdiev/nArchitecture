@@ -1,0 +1,1 @@
+2025-01-30 01:14:41.938 +04:00 [Information] {"FullName":"","MethodName":"\u003CHandle\u003Eg__Handler|0","User":"?","Parameters":[{"Name":"","Value":{"Name":"BMW","CacheKey":"","BypassCache":false,"CacheGroupKey":"GetBrands"},"Type":"CreateBrandCommand"}]}

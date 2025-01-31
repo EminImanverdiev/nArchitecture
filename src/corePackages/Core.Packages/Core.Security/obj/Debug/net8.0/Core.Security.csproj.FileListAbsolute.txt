@@ -1,0 +1,5 @@
+D:\Workspace\MyCourses\nArchitecture\corePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.csproj.AssemblyReference.cache
+D:\Workspace\MyCourses\nArchitecture\corePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\MyCourses\nArchitecture\corePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfoInputs.cache
+D:\Workspace\MyCourses\nArchitecture\corePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfo.cs
+D:\Workspace\MyCourses\nArchitecture\corePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.csproj.CoreCompileInputs.cache
